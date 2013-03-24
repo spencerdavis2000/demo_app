@@ -4,3 +4,5 @@ This is the ruby on rails tutorials by [*Michael Hartl*](http://www.railstutoria
 
 This is the demo application from the 2nd video
 
+I am adding something to the readme file
+
